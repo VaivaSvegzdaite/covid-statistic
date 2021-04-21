@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/covid-app/static/css/main.26ad50e4.chunk.css",
+    "main.js": "/covid-app/static/js/main.4d1ea52d.chunk.js",
+    "main.js.map": "/covid-app/static/js/main.4d1ea52d.chunk.js.map",
+    "runtime-main.js": "/covid-app/static/js/runtime-main.1299cf02.js",
+    "runtime-main.js.map": "/covid-app/static/js/runtime-main.1299cf02.js.map",
+    "static/css/2.150d169a.chunk.css": "/covid-app/static/css/2.150d169a.chunk.css",
+    "static/js/2.8978697a.chunk.js": "/covid-app/static/js/2.8978697a.chunk.js",
+    "static/js/2.8978697a.chunk.js.map": "/covid-app/static/js/2.8978697a.chunk.js.map",
+    "index.html": "/covid-app/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/covid-app/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.26ad50e4.chunk.css.map": "/covid-app/static/css/main.26ad50e4.chunk.css.map",
+    "static/js/2.8978697a.chunk.js.LICENSE.txt": "/covid-app/static/js/2.8978697a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1299cf02.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.8978697a.chunk.js",
+    "static/css/main.26ad50e4.chunk.css",
+    "static/js/main.4d1ea52d.chunk.js"
+  ]
+}
